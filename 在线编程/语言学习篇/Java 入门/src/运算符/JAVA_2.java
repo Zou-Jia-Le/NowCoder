@@ -2,7 +2,7 @@ package 运算符;
 
 import java.util.Scanner;
 
-public class JAVA2 {
+public class JAVA_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();

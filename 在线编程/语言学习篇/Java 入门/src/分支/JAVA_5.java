@@ -2,7 +2,7 @@ package 分支;
 
 import java.util.*;
 
-public class JAVA5 {
+public class JAVA_5 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         int price = console.nextInt();
