@@ -8,7 +8,7 @@ public class JAVA_9_1 {
         for (int i = 0; i < 10; i++) {
             long num = 0;
             for (int j = 0; j <= i; j ++) {
-                num += (long)(9 * Math.pow(10,j));
+                num += (long)(9 * Math.pow(10, j));
             }
             sum += num;
         }
